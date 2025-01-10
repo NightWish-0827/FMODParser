@@ -3,7 +3,9 @@ FMOD에서 생성한 Event를 Plugin없이 Audiio.CC에서 Read할 수 있게 �
 
 이 파싱 시스템은 제 레포에 있는 Audio.CC를 사용하지 않으시면 사용하기 어려워요. 
 
-사실 그냥 Json Data 하나 ChartData 하나씩 만 만들면 되는데, 몰라 레후잉 
+사실 그냥 Json Data 하나 ChartData 하나씩 만 만들면 되는데, 할 줄 알면 내걸 왜 쓰는? 
+
+정신상태가 안좋아짐. 
 
 # Summary
 
@@ -38,7 +40,6 @@ Read 할 수 있도록 함.
     정상적으로 FMOD Studio의 Project가 생성되었다면 다음과 같은 폴더들이 생성됨. 
     
     ![pic1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0bd1f676-8630-4eb8-b18f-42deb0493ecb/1143b4b3-9268-4979-a0e7-8e43961108b4/pic1.png)
-    Git 참 좆같네 시발 @시각장애인지원모드 
     
     해당 Project의 Metadata 폴더에 접근하면, Event라는 폴더가 추가로 존재 
     
@@ -89,4 +90,4 @@ Read 할 수 있도록 함.
     
     Scriptable Object를 통한 이중 Debug / Editing
 
-  눈에 뵈는게 없노 ㅅㅂㅋㅋㅋㅋㅋㅋ
+사진이 단 한장도 보이지 않아서 우울해요. 암튼 잘 된다에요.
